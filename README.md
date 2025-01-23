@@ -49,7 +49,7 @@ For a quick and comprehensive walkthrough, watch our **YouTube demo video**:
 The purpose of this project is to:
 
 - Send data (e.g., ZK proofs) over a ZeroMQ socket.
-- Test the verification layer by sending sample or actual proof data.
+- Test the verification layer by sending a sample or actual proof of data.
 - Provide a simple and customizable framework for sending data using Go and ZeroMQ.
 
 ---
@@ -85,7 +85,7 @@ Before you begin, ensure you have met the following requirements:
      brew --version
      ```
 
-     This should display the version of Homebrew installed.
+     This should display the installed version of Homebrew.
 
   #### Install Dependencies
 
